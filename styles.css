@@ -1,11 +1,20 @@
 body {
-    background-color: rgb(176, 124, 170);
+    background-color: rgb(197, 172, 194);
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .header {
+    background-color: rgb(161, 126, 194);
+    color: aliceblue;
+}
 
+.header h2 {
+    
+}
+
+.nav a {
+    color: aliceblue;
 }
 
 .hero {
